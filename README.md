@@ -63,6 +63,13 @@ links:
     </a>
   </li>
 
+<li>
+  <a href="https://www.maryam-nouriaiin.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/internet--v1.png" width="24" style="vertical-align:middle; margin-right: 8px;"> Website
+  </a>
+</li>
+
+
   <li>
     <a href="https://github.com/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="24" style="vertical-align:middle; margin-right: 8px;"> GitHub
@@ -136,7 +143,7 @@ links:
   text: ORCID
   href: https://orcid.org/0000-0003-4795-7777
 
-- icon: flask
+- icon: researchgate
   text: ResearchGate
   href: https://www.researchgate.net/profile/Maryam-Nouri-Aiin-2?ev=hdr_xprf
 
