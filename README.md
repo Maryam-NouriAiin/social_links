@@ -59,10 +59,9 @@ links:
 
 <li>
   <a href="https://www.maryam-nouriaiin.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/84/84380.png" width="24" style="vertical-align:middle; margin-right: 8px;"> Website
+    <img src="https://img.icons8.com/ios-filled/50/internet--v1.png" width="24" style="vertical-align:middle; margin-right: 8px;"> Website
   </a>
 </li>
-
 
   <li>
     <a href="https://github.com/" target="_blank">
