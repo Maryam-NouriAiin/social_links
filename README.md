@@ -159,6 +159,10 @@ links:
   - label: "LinkedIn"
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/maryam-nouri-aiin-5b2b00115/"
+
+  - label: "E-mail"
+    icon: "fas fa-fw fa-envelope"
+    url: "mailto:maryam.nouri-aiin@uvm.edu"
     
   - label: "ORCID"
     icon: "fab fa-fw fa-orcid"
@@ -167,11 +171,7 @@ links:
   - label: "ResearchGate"
     icon: "fas fa-fw fa-researchgate"
     url: "https://www.researchgate.net/profile/Maryam-Nouri-Aiin-2?ev=hdr_xprf"
-    
-  - label: "E-mail"
-    icon: "fas fa-fw fa-envelope"
-    url: "mailto:maryam.nouri-aiin@uvm.edu"
-    
+       
 ---
 
 ## 6. Full Set in navigation.yml style
@@ -188,17 +188,9 @@ links:
   text: Instagram
   href: https://www.instagram.com/uvm_ecopestmgmt/
 
-- icon: graduation-cap
-  text: Google Scholar
-  href: https://scholar.google.com/citations?user=k1I1bOsAAAAJ&hl=en
-
 - icon: linkedin
   text: LinkedIn
   href: https://www.linkedin.com/in/maryam-nouri-aiin-5b2b00115/
-
-- icon: orcid
-  text: ORCID
-  href: https://orcid.org/0000-0003-4795-7777
 
 - icon: researchgate
   text: ResearchGate
@@ -208,5 +200,12 @@ links:
   text: E-mail
   href: mailto:maryam.nouri-aiin@uvm.edu
 
+- icon: orcid
+  text: ORCID
+  href: https://orcid.org/0000-0003-4795-7777
+
+- icon: graduation-cap
+  text: Google Scholar
+  href: https://scholar.google.com/citations?user=k1I1bOsAAAAJ&hl=en
 
 ---
