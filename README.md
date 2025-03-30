@@ -1,5 +1,7 @@
 # social_links
+
 ---
+
 ## 1. YAML Format for Jekyll / Minimal Mistakes (_config.yml or navigation.yml)
 
 links:
@@ -27,7 +29,10 @@ links:
   - label: "E-mail"
     icon: "fas fa-fw fa-envelope"
     url: "mailto:maryam.nouri-aiin@uvm.edu"
+    
 ---
+
+
 ## 2. Markdown Format (for Quarto, README, etc.)
 - [Website](https://www.maryam-nouriaiin.com/)
 - [GitHub](https://github.com/)
@@ -37,7 +42,10 @@ links:
 - [ORCID](https://orcid.org/0000-0003-4795-7777)
 - [ResearchGate](https://www.researchgate.net/profile/Maryam-Nouri-Aiin-2?ev=hdr_xprf)
 - [E-mail](mailto:maryam.nouri-aiin@uvm.edu)
+
 ---
+
+
 ## 3. HTML Format (for Jekyll includes, footers, or custom sections)
 <ul>
   <li><a href="https://www.maryam-nouriaiin.com/" target="_blank"><i class="fas fa-link"></i> Website</a></li>
@@ -50,7 +58,9 @@ links:
   <li><a href="mailto:maryam.nouri-aiin@uvm.edu"><i class="fas fa-envelope"></i> E-mail</a></li>
 </ul>
 ---
+
 ## 4. Full Set in navigation.yml style
+
 - icon: link
   text: Website
   href: https://www.maryam-nouriaiin.com/
@@ -84,6 +94,7 @@ links:
   href: mailto:maryam.nouri-aiin@uvm.edu
 
 ---
+
 ## 4. Markdown Format + emoji (for Quarto, README, etc.)
 - 🌐 [Website](https://www.maryam-nouriaiin.com/)
 - 🐙 [GitHub](https://github.com/)
@@ -95,7 +106,9 @@ links:
 - 📧 [E-mail](mailto:maryam.nouri-aiin@uvm.edu)
 
 ---
+
 ## 5. Clean HTML Block with Icons (25px wide for consistency)
+
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/maryam-nouri-aiin-5b2b00115/" target="_blank">
   <img align="left" alt="LinkedIn" width="25px" style="margin-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />
